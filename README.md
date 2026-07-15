@@ -10,13 +10,13 @@ This repository serves as a showcase of my skills and experience in bioinformati
 
 **Description:** Scripts from the subjects of R, Sequencing and Omics, Introduction to Scientific Programming, and Algorithms and Artificial Intelligence, as well as Python and SQL.
 
-Bioinformatics posters [🔗 Quick access](https://github.com/samuelpintosgonzalez3a/Bioinformatica_SamuelPintos/tree/8e7de3a46e9b77414abf197e0f10c085696e4bb7/Master_Bioinformatica/P%C3%B3sters)
+Bioinformatics posters [🔗 Quick access](https://github.com/samuelpintosgonzalez3a/Bioinformatics_Samuel_Pintos/tree/main/Master%C2%B4s_Degree/Posters)
 
 
 **Key Technologies:***   **Languages:** `R`, `Python`, `SQL`, `HTML`
 
 
-## <h2 align="center">🎓 Master's Thesis 🎓 [🔗 Quick access](https://github.com/samuelpintosgonzalez3a/Bioinformatica_SamuelPintos/tree/db443138c8887afb58731d23c066a210d01c53fe/Proyecto_Fin_de_M%C3%A1ster_(TFM))
+## <h2 align="center">🎓 Master's Thesis 🎓 [🔗 Quick access](https://github.com/samuelpintosgonzalez3a/Bioinformatics_Samuel_Pintos/tree/main/Master%C2%B4s_Thesis)
 
 ### **PREDICTIVE STUDIES OF BLACKFLIES IN THE IBERIAN PENINSULA**
 
@@ -31,7 +31,7 @@ Study applied at a practical level with data provided by the Madrid City Council
 
 ## <h2 align="center">📝📈 Individual Projects 📈📝
 
-### <h3 align="center">🐀 **Predictive biostatistical study of rat populations based on citizen reports** 🐀  [🔗 Quick access](https://github.com/samuelpintosgonzalez3a/Bioinformatica_SamuelPintos/tree/45d861b5c66c1e0bf1ddc134fb66788e408c2428/Proyectos_Individuales/Bioestad%C3%ADstica_de_Ratas)
+### <h3 align="center">🐀 **Predictive biostatistical study of rat populations based on citizen reports** 🐀  [🔗 Quick access](https://github.com/samuelpintosgonzalez3a/Bioinformatics_Samuel_Pintos/tree/main/Individual_Projects/Rats)
 
 **Description:** Data analysis from Madrid Salud technicians to record all citizen reports collected due to the presence of rats in the central area of Madrid, and its subsequent biostatistical analysis where predictive models are applied to determine the impact of environmental variables on the increase of rat reports.
 
